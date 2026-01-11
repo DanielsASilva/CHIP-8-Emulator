@@ -3,7 +3,7 @@ A modern CHIP-8 interpreter/emulator written in C++ using SDL3 for rendering and
 ## Dependencies
 - CMake
 - SDL3 (Must be installed on your system)
-## Build and Execution
+## Build
 ```bash
 git clone https://github.com/DanielsASilva/CHIP-8-Emulator
 
