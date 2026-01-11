@@ -41,4 +41,6 @@
 *.dwo
 
 # chip-8 roms
-.ch8
+*.ch8
+
+build/chip8
