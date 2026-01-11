@@ -1,0 +1,3 @@
+/home/daniels-thinkpad/projects/chip8/build/CMakeFiles/chip8.dir
+/home/daniels-thinkpad/projects/chip8/build/CMakeFiles/edit_cache.dir
+/home/daniels-thinkpad/projects/chip8/build/CMakeFiles/rebuild_cache.dir
