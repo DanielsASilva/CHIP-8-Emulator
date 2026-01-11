@@ -120,7 +120,7 @@ void chip8::execute(bool modernShift, bool keys[]){
                         VBUF[i] = 0xFF000000;
                     }
             }
-            else if(NN = 0xEE) // 00EE RETURN FROM SUBROUTINE
+            else if(NN == 0xEE) // 00EE RETURN FROM SUBROUTINE
                 PC = (RAM[SP + 1] << 8) + RAM[SP + 2]; 
                 SP += 2; 
             break;
